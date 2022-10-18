@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kevinreilly/test-package-public/issues"
   },
-  "homepage": "https://github.com/kevinreilly/test-package-public#readme"
+  "homepage": "https://github.com/kevinreilly/test-package-public#readme",
+  "publishConfig": {
+    "@kevinreilly:registry": "https://npm.pkg.github.com"
+  }
 }
